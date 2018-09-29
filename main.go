@@ -1,6 +1,7 @@
 package main
 
 import (
+	"github.com/amirrezaask/mongo_repo"
 	"github.com/amirrezaask/sentinel"
 )
 
